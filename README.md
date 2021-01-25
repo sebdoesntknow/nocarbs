@@ -52,5 +52,4 @@
 ## Otros
 - Brochette de carnes
 - Huevos
-- Leche
 - Manteca
