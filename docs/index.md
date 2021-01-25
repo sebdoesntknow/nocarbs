@@ -1,12 +1,22 @@
-# Comidas y/o ingredients con cero carbohidratos
+# Comidas e ingredientes con cero carbohidratos
 
-## Carne
+- __No incluye vegetales__
+
+## Carnes
 ### Res
+#### Calidad superior, directo a la plancha, parrilla, horno, etc
 - Picanha
 - Colita de Cuadril
 - Entrana
 - Asado Ingles
+- Bife de Chorizo
 - Roast Beef
+
+#### Calidad inferior, carne mas dura, hecha en olla a presion
+- Paleta
+- Aguja
+- Cadera
+- Osobuco
 
 ### Cerdo
 - Bondiola
@@ -18,13 +28,15 @@
 ## Embutidos
 - Morcilla
 - Chorizo
-- Panchos
+- Panchos/Hot dogs
 - Butifarra
 - Pate de lengua
 
 ## Fiambres
 - Lomito
 - Jamon
+- Salame
+- Mortadela
 
 ## Quesos
 - Brie
